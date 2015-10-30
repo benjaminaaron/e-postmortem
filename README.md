@@ -8,10 +8,12 @@ At the moment I am thinking about an assistant that walks you through the steps 
 
 ## Structure of this repository
 
-For now I just created markdown files in three categories:
-- [Setups](https://github.com/benjaminaaron/e-postmortem/blob/master/Setups.md)
-- [Stories](https://github.com/benjaminaaron/e-postmortem/blob/master/Stories.md)
-- [Thoughts, Questions and Ideas](https://github.com/benjaminaaron/e-postmortem/blob/master/ThoughtsQuestionsIdeas.md)
+For now I created issues to use as a *forum* in three categories:
+- [Setups](https://github.com/benjaminaaron/e-postmortem/issues/1)
+- [Stories](https://github.com/benjaminaaron/e-postmortem/issues/2)
+- [Thoughts, Questions and Ideas](https://github.com/benjaminaaron/e-postmortem/issues/3)
+
+Please feel invited to contribute by commenting on the issues.
 
 ## What already exists
 - **Google** provides an [Inactive Account Manager](https://www.google.com/settings/account/inactive) that allows one to define people who get access to this account after a minimum of three months of inactivity. A personal message can be attached.
