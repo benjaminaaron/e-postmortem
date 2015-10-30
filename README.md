@@ -18,3 +18,4 @@ Please feel invited to contribute by commenting on the issues.
 ## What already exists
 - **Google** provides an [Inactive Account Manager](https://www.google.com/settings/account/inactive) that allows one to define people who get access to this account after a minimum of three months of inactivity. A personal message can be attached.
 - **Facebook** has the option for [Memorialized Accounts](https://www.facebook.com/help/103897939701143). To request turning an account of a deceased person into a memorialized one, proof of death has to be submitted. 
+- **[Vittal](http://www.vittal.de/)** (German) offers to take care of your digital legacy for a monthly or one-time fee
